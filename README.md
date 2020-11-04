@@ -1,5 +1,6 @@
 # CIC Discord Bot
 
+A bot written by @xm94 for the Coding Interview Club's discord server
 ## Current Functions
 
 The bot can currently fetch problems from leetcode, either through its problem ID or Title - !lc 1 and !lc two sum both fetch the problem Two Sum, or a random (non-premium) problem through !lc random, with difficulty problems also available - !lc easy, med/medium, and hard.
